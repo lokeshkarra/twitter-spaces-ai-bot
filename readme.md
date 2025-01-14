@@ -46,7 +46,7 @@ TwitterSpacesAiBot/metadata/twitter.com_cookies.txt
 
 - Run the following command. Replace "link_to_spaces" with actual link
 ```sh
-python main.py link_to_spaces
+python main.py <url_of_spaces_audio>
 ```
 
 
